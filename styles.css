@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: white;
+}
+button :hover {
+    transition: 0.2s ease-in;
+    width: 10px;
+    height: 10px;
+}
+button {
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    background-color: deepskyblue;
+    color: white;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+img {
+    width: 500px;
+    height: 450px;
+}
+p {
+    text-align: center;
+}
